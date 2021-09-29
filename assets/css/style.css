@@ -167,3 +167,16 @@ img {
 .contact-list li:hover {
   background-color: #0072bb;
 }
+
+body {
+  background-color: #d9dcd6;
+}
+
+html {
+  background-color: #d9dcd6;
+}
+.bg-light {
+  /* background-color: #f8f9fa!important; */
+  background-color: rgb(89, 134, 194)!important;
+  background-color: #2a607c!important;
+}
